@@ -7,7 +7,6 @@ Supplementary catalogues and a self-contained Mathematica notebook for diagonal 
 - [DG_search.nb](DG_search.nb): the anomaly search and spectrum explorer, with two button-driven panels. No companion code files or external Lie-algebra package are required.
 - [q=2_tables.pdf](q%3D2_tables.pdf): catalogue with exact maximum absolute hyperino charge q_max = 2, for one or two additional factors. The one-factor A3 catalogue is omitted from this PDF because of its size; the notebook can compute it.
 - [d=3_tables.pdf](d%3D3_tables.pdf): catalogue with exact maximum occupied Sp(1)R+ representation dimension d_max = 3, for one or two additional factors.
-- [READ ME.pdf](READ%20ME.pdf): a one-page reader guide.
 
 ## Open and initialize the notebook
 
